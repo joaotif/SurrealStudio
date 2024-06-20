@@ -1,2 +1,2 @@
-# GET! Grupo
+# Surreal Studio
 Site E-commerce
